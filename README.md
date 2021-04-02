@@ -1,7 +1,7 @@
 # Baltimore Water Usage Prediction
 
 ## Objective 
-The purpose of this project is to predict future water usage amounts by using machine learning techinques. I use annual frequency data and there are 79 observations. The main evaluation metric used is the Root-Mean-Square-Error test.
+The purpose of this project is to predict future water usage amounts by using machine learning techinques. I use data with an annual frequency and there are 79 observations. The main evaluation metric used is the Root-Mean-Square-Error test.
 
 ### Methods Used 
 * Machine Learning 
